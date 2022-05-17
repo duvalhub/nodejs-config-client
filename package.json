@@ -1,0 +1,21 @@
+{
+    "name": "@maxthod/config-client",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cloud-config-client": "^1.6.0",
+        "dotenv": "^16.0.0",
+        "typescript": "^4.6.3"
+    },
+    "devDependencies": {
+        "@types/cloud-config-client": "^1.5.0",
+        "@types/node": "^17.0.23"
+    }
+}
